@@ -4,10 +4,10 @@ int main(int argc, char *argv[])
 {
   while (true) {
     
-    int NumberOne;
-    int NumberTwo;
+    double NumberOne;
+    double NumberTwo;
     char Operator;
-    int Result;
+    double Result;
     
     std::cout << "First Number: ";
     std::cin >> NumberOne;
