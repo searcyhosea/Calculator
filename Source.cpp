@@ -4,6 +4,11 @@ int main(int argc, char *argv[])
 {
   while (true) {
     
+    int NumberOne;
+    int NumberTwo;
+    char Operator;
+    int Result;
+    
     std::cout << "First Number: ";
     std::cin >> NumberOne;
     std::cout << endl;
