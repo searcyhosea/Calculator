@@ -37,6 +37,9 @@ int main(int argc, char *argv[])
       Result = NumberOne / NumberTwo;
       printf("%s", Result);
     }
+    else {
+       printf("Invalid Operator...!\n");
+    }
     
   }
   return 0; 
